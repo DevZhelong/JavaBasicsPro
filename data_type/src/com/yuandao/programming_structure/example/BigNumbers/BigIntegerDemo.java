@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @create 9/25/2024 5:23 AM
  * @Study
  */
-public class BigNumbers {
+public class BigIntegerDemo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("BigInteger1为：");
