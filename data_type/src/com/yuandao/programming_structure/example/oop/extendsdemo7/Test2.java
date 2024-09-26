@@ -7,8 +7,9 @@ package com.yuandao.programming_structure.example.oop.extendsdemo7;
  */
 public class Test2 {
     public static void main(String[] args) {
-        Teacher t = new Teacher("lisi",33,"java");
-
+        Teacher t = new Teacher("lisi", 33, "java");
+        System.out.println(t.getName());
+        System.out.println(t.getAge());
     }
 }
 
